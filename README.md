@@ -1,7 +1,7 @@
 <h1 align="start">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Abubakar Ali</h1>
+         width="45" />, I'm Jeff Karanja</h1>
 <h4 align="start">
 I'm a passionate WebDeveloper , eager to build impactful products and use technology to make a difference .
 </h5>
