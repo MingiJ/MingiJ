@@ -5,7 +5,7 @@
 <h4 align="start">
 I'm a passionate Developer, eager to build impactful products and use technology to make a difference.
 </h4>
-<p>You can contant me at jeff.k.karanja@gmail.com</p>
+<p>You can contact me at jeff.k.karanja@gmail.com</p>
 
 
 <p>
