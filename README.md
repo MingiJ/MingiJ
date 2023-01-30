@@ -3,8 +3,9 @@
          height="45"
          width="45" />, I'm Jeff Karanja</h1>
 <h4 align="start">
-I'm a passionate Developer , eager to build impactful products and use technology to make a difference .
-</h5>
+I'm a passionate Developer, eager to build impactful products and use technology to make a difference.
+</h4>
+<p>You can contant me at jeff.k.karanja@gmail.com</p>
 
 
 <p>
