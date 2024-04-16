@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mingij&" alt="mingij" /></p>
 
-<a href="https://app.daily.dev/jhardaway"><img src="https://api.daily.dev/devcards/v2/r5DcPbCuU.png?r=kbz" width="356" alt="Jerome Hardaway's Dev Card"/></a>
+<a href="https://app.daily.dev/jeffkaranja"><img src="https://api.daily.dev/devcards/v2/r5DcPbCuU.png?r=kbz" width="356" alt="Jeff Karanja's Dev Card"/></a>
